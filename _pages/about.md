@@ -1,14 +1,12 @@
 ---
-# permalink: /
-# title: "About Me"
-# author_profile: true
-# redirect_from: 
-#   - /about/
-#   - /about.html
+permalink: /
+title: "About Me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
-About Me
-===
 
 Hi! I am Zongshun Wang (Chinese: 王宗顺), currently pursuing my PhD degree at the Institute of Logic and Cognition, Department of Philosophy, Sun Yat-sen University, Guangzhou.
 
