@@ -22,8 +22,8 @@ repository               : "zongshunwang.github.io" #
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Zongshun Wang"
-  pronouns         : 王宗顺 # example: "she/her"  
+  name             : "王宗顺"
+  pronouns         : "Zongshun Wang" # example: "she/her"  
   bio              : "PhD Candidate@SYSU"
   location         : "Guangzhou"
   employer         : "Sun Yat-sen University"
