@@ -2,9 +2,9 @@
 permalink: /
 title: "About Me"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+# redirect_from: 
+#   - /about/
+#   - /about.html
 ---
 
 Hi! I am Zongshun Wang (Chinese: 王宗顺), currently pursuing my PhD degree at the Institute of Logic and Cognition, Department of Philosophy, Sun Yat-sen University, Guangzhou.
@@ -18,13 +18,14 @@ Publication
 ---
 
 - Bilateral Gradual Semantics for Weighted Argumentation. 
-  <br>*The AAAI Annual Conference on Artificial Intelligence* (AAAI 2024).
+  <br>*AAAI Conference on Artificial Intelligence* (AAAI 2024).
   <br>**Z. Wang**, Y. Shen. 
 - Fuzzy Labeling Semantics for Quantitative Argumentation. 
-  <br>*The International Conference on Logic and Argumentation* (CLAR 2023).
+  <br>*International Conference on Logic and Argumentation* (CLAR 2023).
   <br>**Z. Wang**, Y. Shen. 
+
 - Dynamics of Fuzzy Argumentation Frameworks. 
-  <br>*The International Conference on Logic and Argumentation* (CLAR 2020).
+  <br>*International Conference on Logic and Argumentation* (CLAR 2020).
   <br>**Z. Wang**, J. Wu.
 
 Journal Papers
