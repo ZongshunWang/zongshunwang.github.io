@@ -13,7 +13,6 @@ My research interest lies in formal argumentation theory, which serves as a comp
 
 Publication
 ======
-
 Conference Papers
 ---
 - Bilateral Gradual Semantics for Weighted Argumentation. 
@@ -25,11 +24,17 @@ Conference Papers
 - Dynamics of Fuzzy Argumentation Frameworks. 
   <br>The International Conference on Logic and Argumentation (CLAR 2020).
   <br>**Z. Wang**, J. Wu.
-
+- Bilateral Gradual Semantics for Weighted Argumentation. 
+  >The AAAI Annual Conference on Artificial Intelligence (AAAI 2024).
+  >**Z. Wang**, Y. Shen. 
+- Fuzzy Labeling Semantics for Quantitative Argumentation. 
+  >The International Conference on Logic and Argumentation (CLAR 2023).
+  >**Z. Wang**, Y. Shen. 
+- Dynamics of Fuzzy Argumentation Frameworks. 
+  >The International Conference on Logic and Argumentation (CLAR 2020).
+  >**Z. Wang**, J. Wu.
 Journal Papers
 ---
-
-
 Prepared Manuscripts
 ---
 - Fuzzy Labeling Semantics for Quantitative Argumentation. 
