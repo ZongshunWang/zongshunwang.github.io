@@ -14,10 +14,10 @@ My research interest lies in formal argumentation theory, which serves as a comp
 
 ---
 
-Publication
-===
+**Publication**
+---
 
-<br>Conference Papers
+Conference Papers
 ---
 
 - Bilateral Gradual Semantics for Weighted Argumentation. [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/28945)
@@ -37,7 +37,7 @@ Journal Papers
 Prepared Manuscripts
 ---
 - Fuzzy Labeling Semantics for Quantitative Argumentation. 
-  <br>Submitted to *Journal of Logic and Computation*.
+  <br>Submitted
   <br>**Z. Wang**, Y. Shen. 
 - On SCC-recursiveness in Quantitative Argumentation.
   <br>Prepared
