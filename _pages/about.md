@@ -20,14 +20,14 @@ Publication
 <br>Conference Papers
 ---
 
-- Bilateral Gradual Semantics for Weighted Argumentation. 
+- Bilateral Gradual Semantics for Weighted Argumentation. [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/28945)
   <br>*AAAI Conference on Artificial Intelligence* (AAAI 2024).
   <br>**Z. Wang**, Y. Shen. 
-- Fuzzy Labeling Semantics for Quantitative Argumentation. 
+- Fuzzy Labeling Semantics for Quantitative Argumentation. [PDF](https://link.springer.com/chapter/10.1007/978-3-031-40875-5_12)
   <br>*International Conference on Logic and Argumentation* (CLAR 2023).
   <br>**Z. Wang**, Y. Shen. 
 
-- Dynamics of Fuzzy Argumentation Frameworks. 
+- Dynamics of Fuzzy Argumentation Frameworks. [PDF](https://link.springer.com/chapter/10.1007/978-3-030-44638-3_18)
   <br>*International Conference on Logic and Argumentation* (CLAR 2020).
   <br>**Z. Wang**, J. Wu.
 
