@@ -23,7 +23,8 @@ author:
   # Biographic information
   avatar           : "avatar.jpg"
   name             : "王宗顺"
-  pronouns         : "Zongshun Wang" # example: "she/her"  
+  name             : "Zongshun Wang"
+  # pronouns         : "Zongshun Wang" # example: "she/her"  
   bio              : "PhD Candidate@SYSU"
   location         : "Guangzhou"
   employer         : "Sun Yat-sen University"
