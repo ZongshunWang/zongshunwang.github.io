@@ -19,6 +19,9 @@ Publication
 Conference Papers
 ---
 - Bilateral Gradual Semantics for Weighted Argumentation. 
+  > Z. Wang
+  - Z. Wang
+  
   Z. Wang, Y. Shen. The AAAI Annual Conference on Artificial Intelligence (AAAI 2024).
 - Fuzzy Labeling Semantics for Quantitative Argumentation. 
   Z. Wang, Y. Shen. The International Conference on Logic and Argumentation (CLAR-23).
