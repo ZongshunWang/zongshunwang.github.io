@@ -25,11 +25,13 @@ Conference Papers
   <br>The International Conference on Logic and Argumentation (CLAR 2020).
   <br>**Z. Wang**, J. Wu.
 - Bilateral Gradual Semantics for Weighted Argumentation. 
-  -The AAAI Annual Conference on Artificial Intelligence (AAAI 2024).
+  <br>-The AAAI Annual Conference on Artificial Intelligence (AAAI 2024).
+  <br>-**Z. Wang**, Y. Shen. 
+- Fuzzy Labeling Semantics for Quantitative Argumentation.
+
+  -The International Conference on Logic and Argumentation (CLAR 2023).
+  
   -**Z. Wang**, Y. Shen. 
-- Fuzzy Labeling Semantics for Quantitative Argumentation. 
-  >The International Conference on Logic and Argumentation (CLAR 2023).
-  >**Z. Wang**, Y. Shen. 
 - Dynamics of Fuzzy Argumentation Frameworks. 
   >The International Conference on Logic and Argumentation (CLAR 2020).
   >**Z. Wang**, J. Wu.
