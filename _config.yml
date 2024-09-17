@@ -27,8 +27,8 @@ author:
   location         : "Guangzhou"
   employer         : "Sun Yat-sen University"
   email            : "wangzsh7@mail2.sysu.edu.cn" 
-  uri              : "" # URL
-  pronouns         : "" # example: "she/her"  
+  # uri              : "" # URL
+  # pronouns         : "" # example: "she/her"  
 
   # Academic websites
   # arxiv            : # URL - Update with the correct link to your profile
