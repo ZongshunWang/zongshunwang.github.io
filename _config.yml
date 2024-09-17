@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "avatar.jpg"
   name             : "王宗顺"
-  # pronouns         : "Zongshun Wang" # example: "she/her"  
+  # pronouns       : "Zongshun Wang" # example: "she/her"  
   bio              : "PhD Candidate@SYSU"
   location         : "Guangzhou"
   employer         : "Sun Yat-sen University"
@@ -32,7 +32,7 @@ author:
 
   # Academic websites
   # arxiv            : # URL - Update with the correct link to your profile
-  # googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=WuJmn2kAAAAJ&hl=en&oi=ao"
   # impactstory      : # URL
   # orcid            : "http://orcid.org/yourorcidurl"
   # semantic         : # URL
