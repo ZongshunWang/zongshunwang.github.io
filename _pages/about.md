@@ -30,4 +30,4 @@ Prepared Manuscripts
 - Fuzzy Labeling Semantics for Quantitative Argumentation. 
   <br>**Z. Wang**, Y. Shen. *Submitted*
 - On SCC-recursiveness in Quantitative Argumentation.
-  <br>**Z. Wang**, Y. Shen. *Prepared*
+  <br>**Z. Wang**, Y. Shen. *Submitted*
