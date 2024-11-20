@@ -25,7 +25,7 @@ Conference Papers
 - Dynamics of Fuzzy Argumentation Frameworks. [PDF](https://link.springer.com/chapter/10.1007/978-3-030-44638-3_18)
   <br>**Z. Wang**, J. Wu. *International Conference on Logic and Argumentation* (CLAR 2020).
 
-Conference Papers
+Journal Papers
 ---
 - Fuzzy Labeling Semantics for Quantitative Argumentation. 
   <br>**Z. Wang**, Y. Shen. To be appeared in *Journal of Logic and Computation*.
