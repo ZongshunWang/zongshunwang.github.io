@@ -28,7 +28,7 @@ Conference Papers
 Journal Papers
 ---
 - Fuzzy Labeling Semantics for Quantitative Argumentation. [PDF](https://academic.oup.com/logcom)
-  <br>**Z. Wang**, Y. Shen. To be appeared in *Journal of Logic and Computation*. 2024
+  <br>**Z. Wang**, Y. Shen. To appear in *Journal of Logic and Computation*. 2024
 
 Prepared Manuscripts
 ---
