@@ -34,5 +34,5 @@ Prepared Manuscripts
 ---
 - On SCC-recursiveness in Quantitative Argumentation. [PDF](https://arxiv.org/abs/2006.08880)
   <br>**Z. Wang**, Y. Shen. *Submitted*
-- Bilateral Gradual Semantics for Weighted Bipolar Argumentation.
+- Convergent Semantics for Weighted Bipolar Argumentation.
   <br>**Z. Wang**, et al. *Manuscript*
