@@ -27,12 +27,10 @@ Conference Papers
 
 Journal Papers
 ---
-- Fuzzy Labeling Semantics for Quantitative Argumentation. [PDF](https://academic.oup.com/logcom)
+- Fuzzy Labeling Semantics for Quantitative Argumentation. [PDF](https://doi.org/10.1093/logcom/exaf009)
   <br>**Z. Wang**, Y. Shen. To appear in *Journal of Logic and Computation*. 2024
 
 Prepared Manuscripts
 ---
 - On SCC-recursiveness in Quantitative Argumentation. [PDF](https://arxiv.org/abs/2006.08880)
   <br>**Z. Wang**, Y. Shen. *Submitted*
-- Convergent Semantics for Weighted Bipolar Argumentation.
-  <br>**Z. Wang**, et al. *Manuscript*
