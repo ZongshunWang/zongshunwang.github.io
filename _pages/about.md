@@ -14,7 +14,7 @@ E-mail: wangzsh7@mail2.sysu.edu.cn;a1396754920@gmail.com
 
 Research Intereset
 ---
-My research interest lies in formal argumentation theory, which serves as a computational model for evaluating arguments in conflict situations. Within this field, my focus is on the study of argumentation semantics, particularly in broadening the evaluation scales for argument strength in quantitative argumentation.
+My research interest lies in formal argumentation theory, which serves as a computational model for evaluating arguments in complex environments. 
 
 Conference Papers
 ---
@@ -28,7 +28,7 @@ Conference Papers
 Journal Papers
 ---
 - Fuzzy Labeling Semantics for Quantitative Argumentation. [PDF](https://doi.org/10.1093/logcom/exaf009)
-  <br>**Z. Wang**, Y. Shen. To appear in *Journal of Logic and Computation*. 2024
+  <br>**Z. Wang**, Y. Shen. *Journal of Logic and Computation*. 2024
 
 Prepared Manuscripts
 ---
