@@ -27,7 +27,7 @@ Conference Papers
 
 Journal Papers
 ---
-- Fuzzy Labeling Semantics for Quantitative Argumentation. [PDF](https://doi.org/10.1093/logcom/exaf009)
+- Fuzzy Labelling Semantics for Quantitative Argumentation. [PDF](https://doi.org/10.1093/logcom/exaf009)
   <br>**Z. Wang**, Y. Shen. *Journal of Logic and Computation*. 2024
 
 Prepared Manuscripts
