@@ -18,19 +18,24 @@ My research interest lies in formal argumentation theory, which serves as a comp
 
 Conference Papers
 ---
-- Bilateral Gradual Semantics for Weighted Argumentation. [\[PDF\]](/files/Bilateral_Gradual_Semantics_for_Weighted_Argumentation.pdf)/[\[URL\]](https://doi.org/10.1609/aaai.v38i9.28945)
+- Bilateral Gradual Semantics for Weighted Argumentation. 
   <br>**Z. Wang**, Y. Shen. *AAAI Conference on Artificial Intelligence* (AAAI 2024)
-- Fuzzy Labeling Semantics for Quantitative Argumentation. [\[PDF\]](/files/FLS-CLAR.pdf)/[\[URL\]](https://doi.org/10.1007/978-3-031-40875-5_12)
+  <br>[**PDF**](/files/Bilateral_Gradual_Semantics_for_Weighted_Argumentation.pdf)/[**URL**](https://doi.org/10.1609/aaai.v38i9.28945)
+- Fuzzy Labeling Semantics for Quantitative Argumentation. 
   <br>**Z. Wang**, Y. Shen. *International Conference on Logic and Argumentation* (CLAR 2023)
-- Dynamics of Fuzzy Argumentation Frameworks. [\[PDF\]](/files/DFAF-CLAR.pdf)/[\[URL\]](https://doi.org/10.1007/978-3-030-44638-3_18)
+  <br>[**PDF**](/files/FLS-CLAR.pdf)/[**URL**](https://doi.org/10.1007/978-3-031-40875-5_12)
+- Dynamics of Fuzzy Argumentation Frameworks. 
   <br>**Z. Wang**, J. Wu. *International Conference on Logic and Argumentation* (CLAR 2020)
+  <br>[**PDF**](/files/DFAF-CLAR.pdf)/[**URL**](https://doi.org/10.1007/978-3-030-44638-3_18)
 
 Journal Papers
 ---
-- Fuzzy Labelling Semantics for Quantitative Argumentation. [\[PDF\]](/files/Fuzzy_Labeling_Semantics_for_Quantitative_Argumentation.pdf)/[\[URL\]](https://doi.org/10.1093/logcom/exaf009)
+- Fuzzy Labelling Semantics for Quantitative Argumentation. 
   <br>**Z. Wang**, Y. Shen. *Journal of Logic and Computation*. 2025
+  <br> [**PDF**](/files/Fuzzy_Labeling_Semantics_for_Quantitative_Argumentation.pdf)/[**URL**](https://doi.org/10.1093/logcom/exaf009)
 
 Prepared Manuscripts
 ---
-- On SCC-recursiveness in Quantitative Argumentation. [PDF](https://arxiv.org/abs/2006.08880)
+- On SCC-recursiveness in Quantitative Argumentation. 
   <br>**Z. Wang**, Y. Shen. *Prepared*
+  <br>[**PDF**](https://arxiv.org/abs/2006.08880)
