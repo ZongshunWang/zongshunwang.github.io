@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="8eabfbc0-941d-4876-bbe6-3e5fa5f80f9b" name="更改" comment="1">
       <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/FLS-CLAR.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/FLS-CLAR.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/Fuzzy_Labeling_Semantics_for_Quantitative_Argumentation.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/Fuzzy_Labeling_Semantics_for_Quantitative_Argumentation.pdf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +81,7 @@
       <workItem from="1737831988230" duration="53000" />
       <workItem from="1738735974562" duration="86000" />
       <workItem from="1738766336625" duration="731000" />
-      <workItem from="1739273628451" duration="1648000" />
+      <workItem from="1739273628451" duration="1994000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <option name="closed" value="true" />
@@ -177,7 +179,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739275085253</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="1">
+      <option name="closed" value="true" />
+      <created>1739275396027</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1739275396027</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
