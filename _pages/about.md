@@ -18,7 +18,7 @@ My research interest lies in formal argumentation theory, which serves as a comp
 
 Conference Papers
 ---
-- Bilateral Gradual Semantics for Weighted Argumentation. [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/28945)
+- Bilateral Gradual Semantics for Weighted Argumentation. [PDF](/_publications/Bilateral_Gradual_Semantics_for_Weighted_Argumentation.pdf)
   <br>**Z. Wang**, Y. Shen. *AAAI Conference on Artificial Intelligence* (AAAI 2024)
 - Fuzzy Labeling Semantics for Quantitative Argumentation. [PDF](https://link.springer.com/chapter/10.1007/978-3-031-40875-5_12)
   <br>**Z. Wang**, Y. Shen. *International Conference on Logic and Argumentation* (CLAR 2023)
