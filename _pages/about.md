@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 About Me
-===
+---
 Hi! I am Zongshun Wang (Chinese: 王宗顺), currently pursuing my PhD degree (Supervisor: Asso. Prof. Yuping Shen) at Institute of Logic and Cognition, Department of Philosophy, Sun Yat-sen University, Guangzhou.
 
 E-mail: wangzsh7@mail2.sysu.edu.cn;a1396754920@gmail.com
