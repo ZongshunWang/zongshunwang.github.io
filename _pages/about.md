@@ -31,7 +31,7 @@ My research interest lies in formal argumentation theory, which serves as a comp
 ## Journal Papers
 - Fuzzy Labelling Semantics for Quantitative Argumentation. 
   <br>**Z. Wang**, Y. Shen. *Journal of Logic and Computation*. 2025
-  <br> [**PDF**](/files/Fuzzy_Labeling_Semantics_for_Quantitative_Argumentation.pdf)/[**URL**](https://doi.org/10.1093/logcom/exaf009)
+  <br> [**PDF**](https://doi.org/10.1093/logcom/exaf009)
 
 ## Prepared Manuscripts
 - On SCC-recursiveness in Quantitative Argumentation. 
