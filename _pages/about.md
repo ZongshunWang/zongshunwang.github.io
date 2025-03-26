@@ -23,7 +23,7 @@ My research interest lies in formal argumentation theory, which serves as a comp
   <br>[**PDF**](/files/Bilateral_Gradual_Semantics_for_Weighted_Argumentation.pdf)/[**URL**](https://doi.org/10.1609/aaai.v38i9.28945)/[**Poster**](/files/Poster_for_BGS.pdf)
 - On SCC-recursiveness in Quantitative Argumentation. 
   <br>**Z. Wang**, Y. Shen. *International Conference on Logic and Argumentation* (CLAR 2025)
-  <br>[**PDF**](https://arxiv.org/abs/2006.08880)/[**URL**]https://www.zlaire.net/clar2025/)
+  <br>[**PDF**](https://arxiv.org/abs/2006.08880)/[**URL**](https://www.zlaire.net/clar2025/)
 - Fuzzy Labeling Semantics for Quantitative Argumentation. 
   <br>**Z. Wang**, Y. Shen. *International Conference on Logic and Argumentation* (CLAR 2023)
   <br>[**PDF**](/files/FLS-CLAR.pdf)/[**URL**](https://doi.org/10.1007/978-3-031-40875-5_12)
