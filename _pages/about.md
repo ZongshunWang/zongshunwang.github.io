@@ -37,4 +37,3 @@ My research interest lies in formal argumentation theory, which serves as a comp
   <br> [**PDF**](https://doi.org/10.1093/logcom/exaf009)/[**URL**](https://doi.org/10.1093/logcom/exaf009)
 
 ## Prepared Manuscripts
-- 
