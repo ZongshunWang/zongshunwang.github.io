@@ -21,7 +21,7 @@ repository               : "zongshunwang.github.io" #
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "avatar.jpg"
+  avatar           : "avatar1.jpg"
   name             : "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;王宗顺<br />Zongshun Wang"
   bio              : "PhD Candidate@SYSU"
   location         : "Guangzhou"
