@@ -8,7 +8,7 @@ redirect_from:
 ---
 # About Me
 
-Hi! I am Zongshun Wang (Chinese: 王宗顺), currently pursuing my PhD degree (Supervisor: Assoc. Prof. Yuping Shen) at Institute of Logic and Cognition, Department of Philosophy, Sun Yat-sen University, Guangzhou.
+Hi! I am Zongshun Wang (Chinese: 王宗顺), obtaining my PhD degree from Institute of Logic and Cognition, Department of Philosophy, Sun Yat-sen University, Guangzhou.
 
 E-mail: wangzsh7@mail2.sysu.edu.cn;a1396754920@gmail.com
 
@@ -35,3 +35,6 @@ My research interest lies in formal argumentation theory, which serves as a comp
 - Fuzzy Labelling Semantics for Quantitative Argumentation. 
   <br>**Z. Wang**, Y. Shen. *Journal of Logic and Computation*. 2025
   <br> [**PDF**](https://doi.org/10.1093/logcom/exaf009)/[**URL**](https://doi.org/10.1093/logcom/exaf009)
+
+## Award
+- Sun Yat-sen University Excellent Doctoral Dissertation Award
