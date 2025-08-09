@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "ZONGSHUN WANG"
 title_separator          : "-"
 name                     : &name "Zongshun Wang"
-description              : &description "PhD Candidate@SYSU"
+description              : &description "PostDoc@SYSU"
 url                      : https://zongshunwang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zongshunwang.github.io" # 
