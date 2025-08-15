@@ -8,15 +8,15 @@ redirect_from:
 ---
 # About Me
 
-Hi! I am Zongshun Wang (Chinese: 王宗顺), obtaining my PhD degree from Institute of Logic and Cognition, Department of Philosophy, Sun Yat-sen University, Guangzhou.
+Hi! I am Zongshun Wang (Chinese: 王宗顺), and I obtained my PhD degree from Institute of Logic and Cognition, Department of Philosophy, Sun Yat-sen University, Guangzhou.
 
-E-mail: wangzsh7@mail2.sysu.edu.cn;a1396754920@gmail.com
+E-mail: wangzsh7@mail2.sysu.edu.cn; a1396754920@gmail.com
 
-Research Intereset
+Research Interest
 ---
 My research interest lies in formal argumentation theory, which serves as a computational model for evaluating arguments in complex environments. 
 
-## Conference Papers
+## Conference Paper
 
 - Bilateral Gradual Semantics for Weighted Argumentation. 
   <br>**Z. Wang**, Y. Shen. *AAAI Conference on Artificial Intelligence* (AAAI 2024)
@@ -31,7 +31,7 @@ My research interest lies in formal argumentation theory, which serves as a comp
   <br>**Z. Wang**, J. Wu. *International Conference on Logic and Argumentation* (CLAR 2020)
   <br>[**PDF**](/files/DFAF-CLAR.pdf)/[**URL**](https://doi.org/10.1007/978-3-030-44638-3_18)
 
-## Journal Papers
+## Journal Paper
 - Fuzzy Labelling Semantics for Quantitative Argumentation. 
   <br>**Z. Wang**, Y. Shen. *Journal of Logic and Computation*. 2025
   <br> [**PDF**](https://doi.org/10.1093/logcom/exaf009)/[**URL**](https://doi.org/10.1093/logcom/exaf009)
