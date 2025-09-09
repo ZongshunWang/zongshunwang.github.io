@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I am Zongshun Wang (Chinese: 王宗顺), and I obtained my PhD degree from Institute of Logic and Cognition, Department of Philosophy, Sun Yat-sen University, Guangzhou.
 
-E-mail: wangzsh7@mail2.sysu.edu.cn; a1396754920@gmail.com
+E-mail: wangzsh27@mail.sysu.edu.cn; a1396754920@gmail.com
 
 Research Interest
 ---
