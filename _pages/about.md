@@ -20,7 +20,7 @@ My research interest lies in formal argumentation theory, which serves as a comp
 
 - Convergent Semantics for Weighted Bipolar Argumentation.
   <br>**Z. Wang**, Y. Shen. *AAAI Conference on Artificial Intelligence* (AAAI 2026)
-  <br>[**PDF**]()/[**URL**]()/[**Poster**]()
+  <br>[**PDF**](/files/Convergent_Semantics_for_Weighted_Bipolar_Argumentation.pdf)/[**URL**]()/[**Poster**]()
 - Bilateral Gradual Semantics for Weighted Argumentation. 
   <br>**Z. Wang**, Y. Shen. *AAAI Conference on Artificial Intelligence* (AAAI 2024)
   <br>[**PDF**](/files/Bilateral_Gradual_Semantics_for_Weighted_Argumentation.pdf)/[**URL**](https://doi.org/10.1609/aaai.v38i9.28945)/[**Poster**](/files/Poster_for_BGS.pdf)
