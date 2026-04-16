@@ -20,10 +20,10 @@ My research interest lies in formal argumentation theory, which serves as a comp
 
 - Convergent Semantics for Weighted Bipolar Argumentation.
   <br>**Z. Wang**, Y. Shen. *AAAI Conference on Artificial Intelligence* (AAAI 2026)
-  <br>[**PDF**](/files/Convergent_Semantics_for_Weighted_Bipolar_Argumentation.pdf)/[**URL**](https://ojs.aaai.org/index.php/AAAI/article/view/39019)/[**Poster**](https://underline.io/lecture/140744-convergent-semantics-for-weighted-bipolar-argumentation)
+  <br>[**PDF**](/files/Convergent_Semantics_for_Weighted_Bipolar_Argumentation.pdf)/[**URL**](https://doi.org/10.1609/aaai.v40i23.39019)/[**Presentation**](https://underline.io/lecture/140744-convergent-semantics-for-weighted-bipolar-argumentation)
 - On SCC-recursiveness in Quantitative Argumentation. 
   <br>**Z. Wang**, Y. Shen. *International Conference on Logic and Argumentation* (CLAR 2025)
-  <br>[**PDF**](https://arxiv.org/abs/2006.08880)/[**URL**](https://www.zlaire.net/clar2025/)
+  <br>[**PDF**](/files/6.On_SCC-recursiveness_in_Quantitative_Argumentation.pdf)/[**URL**](https://doi.org/10.1007/978-981-96-7956-0_19)
 - Bilateral Gradual Semantics for Weighted Argumentation. 
   <br>**Z. Wang**, Y. Shen. *AAAI Conference on Artificial Intelligence* (AAAI 2024)
   <br>[**PDF**](/files/Bilateral_Gradual_Semantics_for_Weighted_Argumentation.pdf)/[**URL**](https://doi.org/10.1609/aaai.v38i9.28945)/[**Poster**](/files/Poster_for_BGS.pdf)
