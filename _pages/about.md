@@ -16,11 +16,14 @@ Research Interest
 ---
 My research interest lies in formal argumentation theory, which serves as a computational model for evaluating arguments in complex environments. 
 
-## Conference Paper
+## Publication
 
 - Convergent Semantics for Weighted Bipolar Argumentation.
   <br>**Z. Wang**, Y. Shen. *AAAI Conference on Artificial Intelligence* (AAAI 2026)
-  <br>[**PDF**](/files/Convergent_Semantics_for_Weighted_Bipolar_Argumentation.pdf)/[**URL**](https://doi.org/10.1609/aaai.v40i23.39019)/[**Presentation**](https://underline.io/lecture/140744-convergent-semantics-for-weighted-bipolar-argumentation)
+  <br>[**PDF**](/files/Convergent_Semantics_for_Weighted_Bipolar_Argumentation.pdf)/[**URL**](https://doi.org/10.1609/aaai.v40i23.39019)/[**Pre**](https://underline.io/lecture/140744-convergent-semantics-for-weighted-bipolar-argumentation)
+- Fuzzy Labelling Semantics for Quantitative Argumentation. 
+  <br>**Z. Wang**, Y. Shen. *Journal of Logic and Computation*. 2025
+  <br> [**PDF**](https://doi.org/10.1093/logcom/exaf009)/[**URL**](https://doi.org/10.1093/logcom/exaf009)
 - On SCC-recursiveness in Quantitative Argumentation. 
   <br>**Z. Wang**, Y. Shen. *International Conference on Logic and Argumentation* (CLAR 2025)
   <br>[**PDF**](/files/6.On_SCC-recursiveness_in_Quantitative_Argumentation.pdf)/[**URL**](https://doi.org/10.1007/978-981-96-7956-0_19)
@@ -33,11 +36,6 @@ My research interest lies in formal argumentation theory, which serves as a comp
 - Dynamics of Fuzzy Argumentation Frameworks. 
   <br>**Z. Wang**, J. Wu. *International Conference on Logic and Argumentation* (CLAR 2020)
   <br>[**PDF**](/files/DFAF-CLAR.pdf)/[**URL**](https://doi.org/10.1007/978-3-030-44638-3_18)
-
-## Journal Paper
-- Fuzzy Labelling Semantics for Quantitative Argumentation. 
-  <br>**Z. Wang**, Y. Shen. *Journal of Logic and Computation*. 2025
-  <br> [**PDF**](https://doi.org/10.1093/logcom/exaf009)/[**URL**](https://doi.org/10.1093/logcom/exaf009)
 
 ## Award
 - Sun Yat-sen University Excellent Doctoral Dissertation Award
