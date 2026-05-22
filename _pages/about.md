@@ -38,4 +38,4 @@ My research interest lies in formal argumentation theory, which serves as a comp
   <br>[**PDF**](/files/DFAF-CLAR.pdf)/[**URL**](https://doi.org/10.1007/978-3-030-44638-3_18)
 
 ## Award
-- Sun Yat-sen University Excellent Doctoral Dissertation Award
+- Sun Yat-sen University Excellent Doctoral Dissertation Award 
