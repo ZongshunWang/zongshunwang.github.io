@@ -20,7 +20,7 @@ My research interest lies in formal argumentation theory, which serves as a comp
 
 - Convergent Semantics for Weighted Bipolar Argumentation.
   <br>**Z. Wang**, Y. Shen. *AAAI Conference on Artificial Intelligence* (AAAI 2026)
-  <br>[**PDF**](/files/7.ConvergentSemanticsforWeightedBipolarArgumentation.pdf)/[**URL**](https://doi.org/10.1609/aaai.v40i23.39019)/[**Pre**](https://underline.io/lecture/140744-convergent-semantics-for-weighted-bipolar-argumentation)
+  <br>[**PDF**](https://doi.org/10.1609/aaai.v40i23.39019)/[**URL**](https://doi.org/10.1609/aaai.v40i23.39019)/[**Pre**](https://underline.io/lecture/140744-convergent-semantics-for-weighted-bipolar-argumentation)
 - Fuzzy Labelling Semantics for Quantitative Argumentation. 
   <br>**Z. Wang**, Y. Shen. *Journal of Logic and Computation*. 2025
   <br> [**PDF**](https://doi.org/10.1093/logcom/exaf009)/[**URL**](https://doi.org/10.1093/logcom/exaf009)
