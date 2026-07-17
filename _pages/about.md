@@ -20,27 +20,27 @@ My research interest lies in formal argumentation theory, which serves as a comp
 
 - Convergent Semantics for Weighted Bipolar Argumentation.
   <br>**Z. Wang**, Y. Shen. *AAAI Conference on Artificial Intelligence* (AAAI 2026)
-  [doi.org/10.1609/aaai.v40i23.39019](https://doi.org/10.1609/aaai.v40i23.39019)
+  <br>[doi.org/10.1609/aaai.v40i23.39019](https://doi.org/10.1609/aaai.v40i23.39019)
  <!--<br>[**URL**](https://doi.org/10.1609/aaai.v40i23.39019)[**Pre**](https://underline.io/lecture/140744-convergent-semantics-for-weighted-bipolar-argumentation)-->
 - Fuzzy Labelling Semantics for Quantitative Argumentation. 
   <br>**Z. Wang**, Y. Shen. *Journal of Logic and Computation*. 2025
-  [doi.org/10.1093/logcom/exaf009](https://doi.org/10.1093/logcom/exaf009)
+  <br>[doi.org/10.1093/logcom/exaf009](https://doi.org/10.1093/logcom/exaf009)
   <!--<br><br> [**PDF**](https://doi.org/10.1093/logcom/exaf009)/[**URL**](https://doi.org/10.1093/logcom/exaf009)-->
 - On SCC-recursiveness in Quantitative Argumentation. 
   <br>**Z. Wang**, Y. Shen. *International Conference on Logic and Argumentation* (CLAR 2025)
-  [doi.org/10.1007/978-981-96-7956-0_19](https://doi.org/10.1007/978-981-96-7956-0_19)
+  <br>[doi.org/10.1007/978-981-96-7956-0_19](https://doi.org/10.1007/978-981-96-7956-0_19)
   <!--<br><br>[**PDF**](/files/6.On_SCC-recursiveness_in_Quantitative_Argumentation.pdf)/[**URL**](https://doi.org/10.1007/978-981-96-7956-0_19)-->
 - Bilateral Gradual Semantics for Weighted Argumentation. 
   <br>**Z. Wang**, Y. Shen. *AAAI Conference on Artificial Intelligence* (AAAI 2024)
-  [doi.org/10.1609/aaai.v38i9.28945](https://doi.org/10.1609/aaai.v38i9.28945)
+  <br>[doi.org/10.1609/aaai.v38i9.28945](https://doi.org/10.1609/aaai.v38i9.28945)
   <!--<br><br>[**PDF**](/files/Bilateral_Gradual_Semantics_for_Weighted_Argumentation.pdf)/[**URL**](https://doi.org/10.1609/aaai.v38i9.28945)/[**Poster**](/files/Poster_for_BGS.pdf)-->
 - Fuzzy Labeling Semantics for Quantitative Argumentation. 
   <br>**Z. Wang**, Y. Shen. *International Conference on Logic and Argumentation* (CLAR 2023)
-  [doi.org/10.1007/978-3-031-40875-5_12](https://doi.org/10.1007/978-3-031-40875-5_12)
+  <br>[doi.org/10.1007/978-3-031-40875-5_12](https://doi.org/10.1007/978-3-031-40875-5_12)
   <!--<br><br>[**PDF**](/files/FLS-CLAR.pdf)/[**URL**](https://doi.org/10.1007/978-3-031-40875-5_12)-->
 - Dynamics of Fuzzy Argumentation Frameworks. 
   <br>**Z. Wang**, J. Wu. *International Conference on Logic and Argumentation* (CLAR 2020)
-  [doi.org/10.1007/978-3-030-44638-3_18](https://doi.org/10.1007/978-3-030-44638-3_18)
+  <br>[doi.org/10.1007/978-3-030-44638-3_18](https://doi.org/10.1007/978-3-030-44638-3_18)
   <!--<br><br>[**PDF**](/files/DFAF-CLAR.pdf)/[**URL**](https://doi.org/10.1007/978-3-030-44638-3_18)-->
 
 ## Award
