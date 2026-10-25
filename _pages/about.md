@@ -46,7 +46,7 @@ My research interest lies in formal argumentation theory, which serves as a comp
 ## Funding
 - China Postdoctoral Science Foundation General Program
 - China Postdoctoral Science Foundation Fellowship Program
-- Guangdong Higher Education Institutes-Young Innovative Talent Program
+- Guangdong Higher Education Institutes Young Innovative Talent Program
 - Fundamental Research Funds for the Central Universities
 
 ## Award
